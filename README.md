@@ -1,0 +1,1 @@
+# Analise-Simples-de-Vendas-de-uma-Loja-Virtual
