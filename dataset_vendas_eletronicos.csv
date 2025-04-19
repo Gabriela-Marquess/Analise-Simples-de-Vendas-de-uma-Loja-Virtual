@@ -1,0 +1,501 @@
+Data da Venda,ID do Pedido,Produto,Preço Unitário,Quantidade,Cliente,Estado,Forma de Pagamento
+2024-11-05,15df7deb-6f57-482d-bb69-4f9ac1ffaa95,Smartphone,4356.38,4,Robert Fletcher,PE,Cartão de Débito
+2024-12-13,b73eac9a-6391-4edb-ba90-a79980ac7b70,Tablet,863.41,3,Lori Brown,SP,Pix
+2025-01-03,eb7b456d-6522-48e1-a3c9-cfe0e34d1991,Fone de Ouvido,3546.36,4,Heather Porter,PE,Pix
+2025-01-02,62ba1e46-22bd-4a6c-b84c-d75309ea1a49,Smartwatch,4579.19,3,Sarah Adkins,PR,Cartão de Débito
+2025-04-16,c001ba5c-88f6-41d5-9f38-cb83b8390509,Tablet,4449.1,5,Andrew Campbell,SP,Pix
+2025-02-06,28fd5cc4-7a9a-4ed3-9b56-07d2daed3207,Tablet,2293.79,1,Jamie Hancock,BA,Boleto
+2025-01-01,c84deda9-fe9f-46c3-b001-85a65eda4d87,Tablet,2199.47,2,Stephanie Gonzalez,RJ,Pix
+2025-04-15,e5cdb947-2b5a-4b70-9cc1-c2ccd0860296,Smartwatch,2000.67,3,Juan Anderson,SP,Pix
+2025-01-14,423dae33-6188-4238-9a7d-42318147975b,Fone de Ouvido,4040.41,4,Maria Ruiz,BA,Cartão de Crédito
+2025-01-06,7c3a09f9-1894-4328-a29d-11510645326a,Fone de Ouvido,3439.09,5,Joshua Li,RJ,Cartão de Débito
+2024-11-15,6efbc298-269c-4c86-949f-11ec9d99baa6,Smartwatch,462.53,2,Faith Woods,RJ,Boleto
+2024-10-24,94af16c6-eb1a-42c2-8d8d-11c56ebbe153,Fone de Ouvido,4853.53,1,Richard Reed,RJ,Pix
+2025-04-01,4b135ef2-66d7-4895-89a5-ac19566ff7cf,Tablet,1242.21,1,Kayla Robinson,RS,Boleto
+2024-11-14,c5df07b1-c1de-4fa2-a75b-bf0b26dfa487,Fone de Ouvido,4694.97,4,Amber Hartman,BA,Cartão de Crédito
+2024-11-15,82f8e9f8-d874-42c1-a549-8fc6a1bdd285,Smartwatch,688.79,3,Jasmine Long,RJ,Boleto
+2025-02-06,f8fdfb2c-cf26-481c-8883-879480ea625d,Smartphone,4831.41,1,Jacob Wade,PR,Cartão de Crédito
+2024-10-23,6f395c40-839d-4763-8bfa-86299623f0dc,Fone de Ouvido,2788.42,2,Pamela Perez,PR,Cartão de Débito
+2024-12-30,40febeef-4994-4144-a17b-48c04aaacf68,Smartphone,1373.89,3,Lori Davidson,RJ,Cartão de Crédito
+2024-10-30,3fb46b70-6eb0-4cfa-86c6-3498c204a1a7,Fone de Ouvido,240.93,4,Elizabeth Barker,SP,Cartão de Crédito
+2024-11-15,93c2d9e3-9f47-4565-9012-22e8bcc27229,Notebook,3982.14,5,Elizabeth Morgan,BA,Cartão de Crédito
+2025-03-19,53bd1d4d-7d5f-469c-aa1d-0bb23c15cae1,Tablet,4115.45,5,Jennifer Oconnor,MG,Pix
+2025-01-24,64a92ca2-9fc7-4e4c-9582-ac6cb4b73ce2,Smartphone,2000.71,3,Heather Doyle,SP,Cartão de Crédito
+2024-12-25,95581c1e-7695-4a53-9e2b-6edef4f0d33d,Tablet,3328.33,2,Christopher Perez,RS,Cartão de Crédito
+2025-01-19,a98ae104-813d-40a3-9cec-dd756b3ac2f4,Smartphone,4285.38,1,Dr. Francis Cochran,PE,Boleto
+2025-04-16,56758f20-b53e-4841-a4ee-0970f9c39953,Fone de Ouvido,4506.98,4,Angela Edwards,MG,Pix
+2025-03-20,7acc5c7d-8f9b-41cf-9acb-06c228180c50,Tablet,4504.32,4,Madison Nelson,BA,Boleto
+2025-02-15,743651dd-4b6b-4a52-b91f-0ddeec223758,Smartwatch,3715.85,4,Kimberly Hartman,RJ,Cartão de Débito
+2025-03-29,cc50f47d-4ac1-4d3b-8e5c-e561e2325091,Tablet,2172.0,4,Steven Dixon,RJ,Cartão de Débito
+2024-11-28,e81eadbd-d3ae-4453-93ea-b12961f48f31,Notebook,3260.68,1,Rebecca Gross,RS,Pix
+2024-11-26,7fb5bbbd-bae4-4dae-a0f9-c32f20af69c6,Fone de Ouvido,3487.37,4,Grace Morgan,SP,Pix
+2024-11-05,8d3bda21-0a64-497a-87d5-7569e2086661,Smartwatch,1459.89,5,Sarah Lopez,SP,Pix
+2024-10-28,2bd66cad-b0b4-40de-888f-caae1129b4a7,Smartwatch,3746.08,2,Lori Vasquez,PR,Cartão de Débito
+2025-03-25,7cee7d14-72b9-4554-aff2-865bd86b91b5,Notebook,3362.88,5,Carolyn Welch,PR,Cartão de Débito
+2024-10-31,7e696bc3-4dd2-4bd0-ac91-5c131ef7087c,Notebook,3498.29,1,Jennifer Shelton,PE,Cartão de Débito
+2024-10-24,443ee26f-d61e-4f68-be3d-95665132c95c,Fone de Ouvido,613.44,4,Bryan Herrera,PE,Boleto
+2025-03-11,1083d180-1b58-4b54-9945-355029a12359,Smartwatch,2608.92,1,Catherine Soto,RS,Boleto
+2025-02-22,5fa63acb-fee2-43b2-ac84-51c018863fe4,Tablet,2530.38,3,Michael Mccoy,RS,Pix
+2025-04-17,c17576fd-6870-4c70-9931-7b1d6efb2450,Tablet,3314.39,3,Patrick White DVM,RS,Boleto
+2024-12-08,fc770e3d-49ce-4f56-8e44-bd4d81ab4a48,Fone de Ouvido,2319.3,4,Sarah Peters,MG,Cartão de Crédito
+2025-01-23,e4a21491-d1a0-4a96-b544-3df3b0aff5a0,Notebook,3244.44,3,Barbara Peters,RJ,Boleto
+2025-04-18,75d2d869-13fe-413e-9388-e2d5a825e0c8,Smartphone,510.78,1,Leslie Cantu,MG,Boleto
+2024-12-11,81b74c2e-fb07-4ec4-a04b-053660d06235,Smartwatch,4865.47,5,Joseph Skinner,MG,Cartão de Crédito
+2025-02-02,1e9286e4-4352-46ad-a558-b05a0b75906f,Smartphone,2789.23,1,Christopher Lawson,BA,Cartão de Crédito
+2025-04-11,e78539ee-af13-42a6-8ebb-06093bca4a13,Smartwatch,3988.31,3,Michelle Tran,RS,Pix
+2024-11-12,da980ab9-54a9-42dc-bb0d-641ff12fad36,Fone de Ouvido,3350.81,3,Robert Saunders,MG,Boleto
+2025-02-06,73f474e2-3ea4-4219-b52a-5600303ad695,Fone de Ouvido,398.06,3,Jessica Thomas,RJ,Cartão de Débito
+2024-12-12,ad983947-ede9-40e6-b8ab-f6636a922012,Notebook,939.48,4,Kimberly White,PE,Boleto
+2025-02-28,92f593e4-c754-4160-b7f7-b16d0948f8d4,Smartphone,855.51,3,Andres Nelson,SP,Boleto
+2025-03-15,c5613ab8-27d3-426e-bfbf-44c701cdb4c4,Smartwatch,4970.15,1,Anita Flynn,RJ,Boleto
+2024-12-27,e2b0f285-2d89-40c2-b223-51eb4a2b25ce,Smartwatch,1107.18,1,Jeremy Sanders,RS,Pix
+2025-01-17,d5769e66-2841-4f41-b72f-dcc3e6eb6545,Fone de Ouvido,1243.75,2,John Hernandez,SP,Cartão de Crédito
+2025-03-15,b6ee20e4-6739-46e9-b049-1910c608b79c,Tablet,3117.48,1,Wayne Kelley DDS,BA,Pix
+2025-03-21,2e7d7e98-0558-4420-9d1e-d741eecc8aaf,Smartphone,384.01,2,Steven Wade,SP,Pix
+2025-04-18,e8937455-b5d2-4144-87d3-3fe8de20e7b5,Fone de Ouvido,2532.61,2,Cynthia Pearson,SP,Cartão de Crédito
+2024-10-26,4641915e-0485-4758-88e2-a40c094fb494,Smartphone,2906.45,1,Lisa Richard,MG,Cartão de Crédito
+2025-02-22,40ced248-820c-430e-bbf0-7d4db34ec247,Tablet,1167.13,1,Stacy Sanchez,RJ,Pix
+2024-11-30,fc815974-19e2-4c9c-af65-eef5be449261,Smartphone,2055.94,2,Emily Fox,PE,Cartão de Débito
+2024-12-31,3d445419-ee99-40db-bb59-8f4a623cc691,Fone de Ouvido,1209.23,5,Jordan Lowe,MG,Pix
+2025-01-15,ca18baad-7369-4bde-9093-a1af54c757fd,Smartwatch,414.91,4,Veronica Cantu,PE,Cartão de Crédito
+2024-11-04,5a5fcdf8-456f-47b1-834e-3467318a865f,Tablet,4454.65,2,David Mcdaniel,PR,Cartão de Débito
+2025-02-06,eb2b5c4d-cb9b-4673-b430-5ab9a9c1e16f,Fone de Ouvido,4218.94,1,Kristine Thornton DDS,PR,Boleto
+2025-02-11,db55573b-91b2-40a9-8a21-a1df4490fb7e,Fone de Ouvido,1131.95,1,Jennifer Palmer,BA,Cartão de Débito
+2025-01-26,19726be6-d268-4ce5-a069-74b78302e1b9,Smartphone,1441.48,5,Brian Fitzgerald,PR,Boleto
+2024-11-25,9cc07433-1480-428f-91cb-8c01216fbbf3,Tablet,1013.03,2,Robert Carroll,RJ,Cartão de Crédito
+2025-02-21,cbf7e539-d04a-4bf3-934d-a2b914f7519b,Notebook,1061.24,5,Robert House,PR,Cartão de Crédito
+2025-01-27,d3392597-dbe6-468f-a190-303b8e7c211d,Tablet,1307.61,4,Kelly Peters,SP,Pix
+2025-03-21,abe1463a-5519-4739-bdf2-d4d0309ecdb2,Fone de Ouvido,306.23,2,Susan Diaz,BA,Cartão de Crédito
+2024-11-14,b69cd91f-ffec-406c-9c9c-d56f17492c1d,Smartwatch,4099.44,2,Brendan Alexander,RJ,Pix
+2024-12-04,dd9b910c-03b2-4e21-aac0-dc4e462dd6cf,Smartwatch,2834.78,1,William Perry,PE,Pix
+2024-11-06,2d9ed9a8-4418-4f31-94bc-3372e7bff191,Smartphone,2513.93,3,Melissa Bartlett,RJ,Cartão de Crédito
+2024-12-18,f57ffc91-2468-40eb-8809-510e8ef7ee0a,Fone de Ouvido,1777.32,2,Catherine Hobbs,BA,Boleto
+2025-04-11,3657ae2b-91a5-4860-82cc-69931eaa8328,Smartphone,3560.27,2,John Gray,PE,Cartão de Débito
+2024-12-08,ff6dc6bc-6be8-43da-bb1a-0e34de150501,Smartwatch,1273.53,3,Elizabeth Smith,PR,Cartão de Crédito
+2025-03-20,a2f2a79e-ff03-4c9a-8595-5a4aa5b617cd,Notebook,455.99,5,Jason Smith,PR,Pix
+2024-12-29,c4f548c1-095d-4d2c-8b98-bb9593525df3,Notebook,573.3,2,Courtney Garcia,PE,Cartão de Débito
+2024-10-19,49984f50-826a-4819-b7c7-a333bde32312,Fone de Ouvido,3182.32,5,Richard Hamilton,RJ,Pix
+2025-04-16,3d508c97-21b0-40fb-9792-1fd6b65f44aa,Smartphone,3374.69,3,Brittany Hall,RS,Pix
+2024-11-17,a35c41a3-cdbb-4ddf-903b-4a7bff31f529,Fone de Ouvido,4470.58,3,Mary Becker,BA,Cartão de Crédito
+2024-11-30,806a70db-23f9-468a-9710-305f4a4dfd3e,Tablet,2161.67,5,Shannon Brown,SP,Pix
+2025-03-14,ccc8f98d-c799-4df0-9377-b3e79af1b55d,Smartphone,4073.25,5,Michelle Gonzalez,PR,Cartão de Débito
+2025-03-23,6bacfd24-0e32-4eb9-95a0-8f109169531e,Fone de Ouvido,1335.71,4,Brittany Cameron,RJ,Boleto
+2024-10-19,5f13063c-c45e-4dfe-9336-d5ee3b324a23,Smartphone,1074.13,2,Jennifer Johnson,MG,Cartão de Débito
+2025-01-25,343840bf-16f2-422d-8f31-17ed14777fbb,Smartphone,398.1,3,Eric Marks,MG,Cartão de Débito
+2024-10-20,84440571-6525-4339-93f8-7306fde7d699,Tablet,2070.52,1,Jonathan Aguirre,PE,Cartão de Débito
+2024-11-22,5e5d05d1-ded1-4ccb-b1b1-e68f9a09a7bd,Smartphone,3268.03,1,Kaitlyn Hoffman,PE,Boleto
+2025-04-01,7ce5844b-339b-4cb6-9d36-6f82ded6f8f9,Smartphone,3320.06,2,Sherri York,SP,Cartão de Débito
+2025-04-11,f0e98ed4-5e37-46e1-a212-d6ebd7bd84fa,Smartphone,1061.82,1,Darren Stevenson,RS,Pix
+2025-01-27,01f9e418-c4a5-46e5-a6ca-3418bec9b600,Tablet,1646.46,4,Abigail Hardy,RJ,Cartão de Débito
+2025-02-06,af571663-dfd9-4855-ada2-720571e5c1d8,Tablet,3529.51,4,Miranda Chambers,PE,Cartão de Débito
+2025-01-12,91f8ca6d-b072-43ee-8dd1-f7467e951e98,Smartphone,3767.67,2,Kelli Moore,PR,Cartão de Crédito
+2025-03-11,8297bc4c-5ff5-4ac9-ac48-adb5d94e89e2,Tablet,4443.98,4,Amanda Mejia,MG,Boleto
+2025-03-21,f10949a3-778d-4b47-aaf5-08fc8a6977f4,Notebook,866.51,5,Jimmy Moon,RS,Cartão de Débito
+2024-11-18,0c8e2b81-523f-429f-a2f3-8fed8cbb2469,Fone de Ouvido,4619.3,1,Valerie Parrish,BA,Cartão de Crédito
+2024-11-01,2047ec02-519c-4a57-959d-575ff2b75f35,Smartphone,3232.01,1,Preston Smith,SP,Pix
+2025-03-05,4da1895a-7c75-4b21-9224-9b95224421ed,Smartwatch,2561.76,3,Harold Duncan,SP,Cartão de Débito
+2025-02-24,0d189ea7-b5cc-442c-a2b7-5999f106c465,Fone de Ouvido,2781.16,4,Wanda Wood,MG,Pix
+2025-03-16,29260df2-7042-4142-a247-4eaf7306e9e7,Fone de Ouvido,2244.62,1,Charles Meyer,PE,Pix
+2025-03-05,8e477e52-4b20-4318-ac3c-6e571e5678ed,Tablet,2845.47,3,Kenneth Porter,BA,Boleto
+2024-11-01,59a5b1fd-ec1a-4a9b-b4b7-7b275d02eab5,Smartwatch,2181.92,2,Laura Diaz,SP,Pix
+2024-12-20,ae1d1ac8-9532-4554-9892-7db0dc50106f,Fone de Ouvido,4445.64,5,Jennifer Reed,BA,Pix
+2025-03-28,0d68b8fb-21cc-41ee-913f-ef0cfe2815f9,Notebook,4518.0,2,Karen Lewis,BA,Boleto
+2024-11-29,0f3151ea-0ffb-481f-aac2-c6b3fe324d8f,Tablet,4965.45,5,Christopher Hall,RJ,Pix
+2024-12-15,859273e9-cb9e-4484-90d3-f3d1e8b2985c,Smartphone,3366.55,3,Clifford Irwin,PE,Boleto
+2024-11-05,b5e53135-feba-4991-a6cc-0209214941de,Notebook,1173.24,1,Christine Cochran,PR,Boleto
+2025-04-01,520a779d-4cc0-4e2d-ac40-82d93e73af46,Fone de Ouvido,4976.2,5,Greg Chaney,RJ,Cartão de Débito
+2025-01-18,cb05e9f5-9e04-49db-a44b-9db1ef40e5c1,Fone de Ouvido,513.02,2,Amy Lee,BA,Boleto
+2025-01-22,684153df-95c9-45e3-b4e7-64fb032c6ac8,Fone de Ouvido,4714.62,5,Lance Ryan,MG,Boleto
+2025-02-15,dbaea1fa-87c5-41a1-8bb5-06ab045142d1,Fone de Ouvido,892.66,2,Abigail Durham,PR,Cartão de Crédito
+2024-12-24,55cd4a6c-acfd-4dd4-a764-a50eddd0a55c,Smartwatch,863.88,2,Samantha Sanchez,RS,Cartão de Crédito
+2024-11-05,913213fe-d01f-4285-817f-b0615c6f386d,Notebook,3173.46,4,Eric Bauer,PR,Boleto
+2025-04-05,37da540e-260a-4677-a039-8995395e47b6,Notebook,848.11,2,Kim King,SP,Pix
+2025-01-05,e6498b9f-dbba-48af-846f-851eb196acba,Notebook,1808.45,2,Phillip Craig,PE,Pix
+2024-10-24,c7845a74-8093-4ba1-9375-8e2134c6cf0c,Smartwatch,3279.85,5,Rachel Cooper,RS,Pix
+2024-12-16,fc9b6cf1-1769-45ba-a13b-164982902202,Notebook,4082.63,3,Anthony Brown,RS,Cartão de Crédito
+2025-02-03,995ef904-eb05-4e55-92b7-219039ed292c,Smartwatch,2412.49,1,Robert Oliver,BA,Pix
+2025-04-07,53424cf0-3322-4c42-b4f7-d215162d413c,Tablet,3397.67,5,Dr. Sara Green,PE,Pix
+2025-04-04,d1332b72-1991-4b28-bb4b-ec8e667fff38,Notebook,843.94,4,Caitlin Weeks,RS,Cartão de Crédito
+2024-12-04,bd87a9c0-f41b-4bf8-a359-a2fc7aeba6ea,Tablet,4978.37,1,Theresa Gonzales,PR,Pix
+2025-03-01,9d05446d-5b9b-41b1-a8b7-c9eebaace944,Fone de Ouvido,3782.02,5,Theodore Bowen,BA,Cartão de Crédito
+2025-04-12,f9f9076e-a3aa-4cb2-83a6-5492a79ba572,Fone de Ouvido,3468.48,4,Robert Martinez,SP,Cartão de Crédito
+2025-02-11,cd0a8af0-b165-4d05-b918-c067bf0a3933,Fone de Ouvido,3483.65,4,Lindsey Jackson,BA,Cartão de Crédito
+2024-12-24,0676d0b3-4208-4854-8db3-9ea37d725695,Smartphone,162.98,2,Cynthia Thomas,PE,Pix
+2025-03-03,d73b82ae-a7ba-4368-8e81-40b9adafdf56,Notebook,2523.61,3,Maria Sanders,SP,Cartão de Débito
+2025-03-02,8cdf1f10-0343-40ad-9ad0-00cd9270e877,Notebook,3383.04,2,Angelica Guzman,MG,Cartão de Crédito
+2024-11-14,7ec3f4c4-f08d-4b45-ba1a-5b5fe1e13077,Fone de Ouvido,1619.06,3,Eric Ward,PE,Cartão de Crédito
+2025-03-19,df39308f-229a-4b8a-a88c-f5b5ad492acd,Smartphone,3329.66,3,Barbara Scott,MG,Cartão de Crédito
+2025-02-10,f9050ddc-b89a-41fe-bad6-2affdd158071,Smartwatch,4158.57,4,Jonathan Jones,RJ,Pix
+2024-10-19,c566a397-25e6-4439-ad1b-d894f2290c59,Smartphone,3560.69,5,Andrew Mcgee,SP,Cartão de Débito
+2025-02-25,ed6179d7-d3f3-4529-ac3e-fa29892fb74b,Fone de Ouvido,3610.07,1,Casey Smith,PE,Pix
+2024-10-23,348ca4b3-54f9-4351-baf4-0eda7e84b3f6,Smartphone,1383.46,3,Jaime White,PE,Pix
+2025-01-11,ad968661-4bfb-47d2-ba19-215352e332dd,Notebook,4920.48,5,John Johnson,RJ,Pix
+2025-01-28,fd1b3073-eb63-488f-b769-f984adbfd7ed,Tablet,2615.82,3,Frederick Ramirez,PE,Cartão de Débito
+2025-03-18,e67ae8df-9b0a-4856-85ee-078499ebf900,Tablet,3647.35,4,Timothy Jones,PR,Cartão de Crédito
+2024-10-24,83e9c1e8-f521-4654-b3db-4626838e42fa,Smartphone,3253.04,5,Douglas Mendez,MG,Cartão de Crédito
+2025-02-24,14a939c0-5f4f-4fa5-861a-803772e686d7,Smartphone,4858.38,4,Gregory Jones,RS,Cartão de Crédito
+2024-12-01,3d64ee3f-631b-4bed-99b8-b52086f1b8fa,Smartphone,3434.03,1,Christina Hicks,BA,Cartão de Crédito
+2025-02-13,606657a1-bb72-4e14-9d95-6315202c98d9,Notebook,4189.68,1,Debra Rivera,MG,Boleto
+2025-02-06,40cb6087-5b57-4006-a937-2ab852d8808b,Notebook,4025.2,1,Richard Meyer,RS,Boleto
+2025-01-01,2eba1bd2-ab6c-4414-8686-df88d9afb722,Notebook,306.31,3,Christopher Davidson,PE,Boleto
+2024-11-18,313caf1f-6abf-4d4d-a46f-18a1a514a5ce,Fone de Ouvido,3028.29,4,Craig Sawyer,PR,Boleto
+2024-12-19,4f1b2bac-07e2-483d-acb7-6ead6031aa7a,Notebook,1593.64,4,Troy Butler,RS,Pix
+2025-03-11,1b1a6a4b-d1a1-4f59-a11a-12dd8a3682cf,Notebook,808.06,3,Eric Hoffman,MG,Cartão de Débito
+2024-12-31,125b65bf-bd57-4b8b-8994-5fb86d57255f,Smartwatch,2323.69,1,Michelle Higgins,RJ,Boleto
+2025-02-28,46e46d8d-27a7-4f54-91f1-113664efe681,Tablet,3469.91,5,Daniel Vargas,RJ,Cartão de Débito
+2024-11-18,1235859e-b05a-414d-889c-f6390b970ee0,Tablet,4642.48,3,Matthew Smith,MG,Pix
+2024-12-21,e537873a-6502-4825-a071-271b665fbb02,Notebook,2248.43,4,Natasha Howell,RS,Cartão de Débito
+2024-12-29,cbccc173-1e23-4726-a010-cf5efe6c3cd3,Smartwatch,4374.53,1,Kristin Obrien,BA,Pix
+2024-12-15,80907287-9801-4218-ac48-219f55575979,Tablet,3290.98,1,Stephen Frazier,RS,Cartão de Débito
+2025-03-30,200a245a-b2fd-49da-a048-04a3a08f4391,Fone de Ouvido,1534.98,2,Terry Vargas,PR,Cartão de Débito
+2025-01-23,0e1625ca-a6c8-4bb7-9acc-4e793c0608e3,Notebook,2681.55,3,Brooke Smith,RS,Cartão de Débito
+2025-01-15,2b771084-3455-49b8-9504-6103db86df52,Tablet,1654.95,2,Michael Miller,PE,Boleto
+2025-03-24,3f4a770d-2b5d-41c0-a67d-88213bff9ec3,Smartwatch,1754.81,2,Miss Christina Lopez MD,SP,Cartão de Crédito
+2024-11-30,2e4e1bae-d63c-4f28-aede-b054f30d992e,Fone de Ouvido,519.11,1,Erica Willis,MG,Cartão de Débito
+2025-03-26,2193f3a6-1b68-4d5c-bf24-d8e87989dbc7,Fone de Ouvido,2080.67,5,Raymond Good,PE,Cartão de Débito
+2024-12-24,3dd8ecfd-25da-43a0-b3e7-ee46714d7ffa,Tablet,2190.14,4,Donna Bush,BA,Boleto
+2025-03-21,b418f874-bb16-484c-b9b3-9b1db6addc29,Smartwatch,2295.84,4,Morgan Whitney,RJ,Pix
+2024-11-26,91bd99ee-2ad6-413f-bd00-ce64b9acbfe0,Fone de Ouvido,3117.85,3,Danielle Simmons,BA,Pix
+2025-03-08,b9354421-0f8c-4e4c-bac7-c4c6af09ae06,Smartphone,1216.6,5,Justin Estes,PE,Cartão de Crédito
+2024-12-04,18bdbbcb-4555-41a2-885e-8e03d8267f5e,Notebook,741.24,1,Lori Ruiz,MG,Boleto
+2024-11-26,fb0df6a0-e8e0-43a0-8d65-343026f02649,Notebook,3932.96,2,Cheyenne Gibson,PE,Cartão de Débito
+2025-03-04,b6639821-d2ee-4dd6-9afa-b4254d8a9a21,Smartwatch,2112.43,1,Anthony Robles,SP,Pix
+2025-02-18,76035699-db81-45b3-bbb4-fb67465e8521,Notebook,4059.16,5,Christine Mccarthy,RJ,Pix
+2024-10-24,85ae8e7a-b9be-4865-ae7a-8e3af37667d4,Smartphone,387.13,5,Natalie Williams,PR,Cartão de Débito
+2024-11-12,53fa7a9d-66c9-4ddc-9940-c8a782c4273f,Notebook,3781.16,4,Melissa Campbell,RS,Cartão de Crédito
+2024-12-09,6839b92b-788a-41a8-aa5d-847e3baa8bab,Notebook,2320.36,5,Tamara Burns,PE,Cartão de Débito
+2025-01-06,c56a9251-685b-46aa-9112-f455852beab0,Fone de Ouvido,1385.69,2,Richard Johnson,RJ,Cartão de Débito
+2025-04-05,5a731ae4-ea07-4c27-955c-7a747af39ca3,Tablet,296.9,1,Zachary Morgan,RJ,Cartão de Crédito
+2025-02-21,3acd3f1c-ce82-498f-b3cf-f5edf4746ba4,Smartwatch,336.29,2,Andrew Mendoza,RJ,Cartão de Crédito
+2025-04-04,e0fbfc61-fd36-4841-b547-793013afca0c,Tablet,2013.57,4,Robert Fields,SP,Cartão de Débito
+2025-03-31,1c4e5f67-f390-47e1-ac13-a583f2e85e39,Tablet,3201.31,5,Lisa Reese,RS,Boleto
+2025-01-20,7dafbe3d-0374-4e88-8c77-1d13b4599fef,Notebook,4798.09,2,Christopher Chandler,PE,Boleto
+2024-11-01,9f102f1c-301a-4112-bb5a-8c126bacbb03,Tablet,3058.35,3,Beth Cardenas,SP,Pix
+2024-11-20,d67b810a-0219-40d9-ad18-08ba830e9e5c,Smartwatch,980.77,4,Rachel Beard,BA,Cartão de Débito
+2025-01-07,d0fec63b-0322-404a-b844-468ca59b3bc0,Smartphone,438.26,2,Samuel Flynn,PR,Cartão de Débito
+2024-10-24,f4b1ceb1-2ccf-4ec4-a1f0-9c1c216661cf,Notebook,315.69,1,Jerry Jennings,BA,Pix
+2024-11-12,718bbfe6-aa43-41b6-89cb-28e1705db081,Notebook,4928.65,4,Fernando Dillon,RS,Cartão de Débito
+2024-11-29,985b7616-a7da-4175-a3f7-69c59d67d4ca,Fone de Ouvido,243.06,1,Matthew Romero,PR,Boleto
+2025-01-21,ae31fa04-7240-42a5-b647-21626745d1c2,Smartwatch,1437.49,3,Leah Pope,SP,Pix
+2024-12-02,ccf8cfc4-9802-4e7c-af80-40e81ee295f6,Fone de Ouvido,3324.92,4,Martha Gonzales,BA,Boleto
+2025-02-19,43c6d2b7-ee3d-4904-b8ac-76e168bf902a,Fone de Ouvido,2737.12,5,Lacey Gonzalez,PE,Pix
+2025-02-03,92246788-8aa5-4e55-b327-a0840f715fb5,Smartwatch,729.16,5,William Camacho,BA,Cartão de Crédito
+2025-01-14,083b3080-f42f-4924-86a8-c6fb13d491af,Fone de Ouvido,3459.48,3,Brian Foley,PR,Pix
+2024-11-28,a30dea23-f474-45f0-886d-58a1fed0245c,Fone de Ouvido,3685.57,3,Evan Morgan,BA,Pix
+2025-02-09,b2cc2503-8c08-4de1-89c0-c808595b35a9,Smartphone,1274.63,2,Debra Leonard,RJ,Cartão de Crédito
+2025-01-02,f8ba6f46-ecb8-4f99-a699-0295eb4d7dba,Smartphone,2309.56,2,Timothy Bell,RS,Boleto
+2024-11-14,0f138c95-86bf-4895-b832-14c9a96cfda2,Fone de Ouvido,4563.4,4,James Miller,MG,Boleto
+2025-01-10,58beafd2-e9ba-40a7-a0fc-b63460837881,Smartwatch,1599.37,3,Elizabeth Cherry,MG,Cartão de Débito
+2024-11-03,826da0f7-a36a-43c3-9c0b-bce5076c52bf,Fone de Ouvido,859.0,3,Mr. Tanner Cole,MG,Boleto
+2024-12-02,7e0a53bd-fd65-49b6-a3e5-19c6faa98722,Smartwatch,244.24,1,Stephanie Clark,RS,Cartão de Crédito
+2024-11-25,43e5728e-e9c3-49e2-b182-20580dd1db03,Smartwatch,2128.6,4,James Morris,RS,Cartão de Débito
+2025-03-13,c0bf18e3-62ae-4123-b463-3d53585677d9,Smartwatch,168.62,2,Adam Thornton,BA,Boleto
+2025-04-12,7370052f-96d8-47ff-97ed-0fe3cdc36299,Fone de Ouvido,1921.25,5,Rose Olson,RS,Cartão de Crédito
+2025-04-08,0724c961-0b4f-4a2e-9e54-3706def0eb98,Fone de Ouvido,925.68,1,Anthony Lee,BA,Pix
+2025-01-10,2790eb68-2ea0-40d1-8d8b-d85a432ac6b3,Notebook,2711.28,1,Daniel Chavez,RJ,Cartão de Débito
+2024-12-02,7aec0c0b-9afa-47d7-992a-6046316ed511,Smartphone,1204.04,1,Mrs. Jennifer Morris,RJ,Boleto
+2024-11-05,8203d0ba-1c60-4add-8fc2-4a8fc27b044c,Smartphone,305.03,1,Joseph Chase,RS,Cartão de Crédito
+2025-02-03,0014ae58-77af-4645-ae78-d726d60534eb,Notebook,3077.42,3,Mary Crawford,BA,Pix
+2024-11-08,892ead16-c22d-44b8-9e90-629150b39ba3,Smartwatch,1138.15,4,Jessica Sanders,MG,Boleto
+2024-11-11,22de5760-8f6f-4980-84f5-b22f687b53e4,Fone de Ouvido,1494.54,1,Justin Mercer,RJ,Boleto
+2025-04-04,8ad6fd24-c501-4b14-81ea-51a03f0a8032,Fone de Ouvido,985.63,5,Brenda Webb,MG,Boleto
+2024-11-13,bca3c5f5-d72f-4e6a-8441-beac9d8acfbb,Notebook,2614.06,1,Wanda Cook,RJ,Boleto
+2025-01-14,f19af00a-0b9b-4a42-9175-3f5baf2abf94,Notebook,688.38,4,Jacob Moore,RS,Cartão de Crédito
+2025-01-16,79cb2958-a7a7-4a95-83f7-4ca96ec8ee45,Smartphone,3656.63,5,Jeffrey Moore,RS,Cartão de Crédito
+2025-02-10,e33bbaee-d26c-4dd3-897c-7f86e9ac0e84,Smartwatch,2969.24,3,Matthew Fisher,PR,Cartão de Débito
+2025-02-26,7858dd46-2ade-43cc-97e5-e4ab5b456ed5,Smartwatch,2936.7,2,Lisa Hall,MG,Cartão de Crédito
+2024-12-21,a2449079-36ef-433c-95ef-e81d491e5d7d,Tablet,1009.81,5,Jose Hoover,RJ,Cartão de Crédito
+2024-12-19,d07d83df-57c7-410a-992c-44053d5ddd22,Smartphone,1413.58,5,Danielle Reese,RS,Cartão de Crédito
+2025-04-11,8e3e5944-00e7-4bef-a84d-c8b1c78073c6,Fone de Ouvido,234.6,5,Michelle Phillips,PE,Pix
+2024-10-27,3d139392-8ea1-4bf0-aac7-655a76524eda,Notebook,733.11,5,Loretta Kramer,SP,Cartão de Débito
+2024-11-09,bada7ba0-0dea-4adc-8e84-e8207f1c9586,Smartphone,788.54,4,Marc Riley,MG,Boleto
+2024-12-13,8375a55d-ad7d-4bbd-a138-e156364f1426,Notebook,4578.82,2,Helen Johnson,SP,Pix
+2024-12-01,29a61171-4fe3-4116-9733-ba7207f6f45e,Notebook,3437.94,4,Mr. David Simmons DVM,SP,Pix
+2024-11-17,c5b41cff-8ed8-4243-a260-1301b0d0ba11,Smartphone,4929.31,4,Bethany Reese,PE,Cartão de Crédito
+2024-11-06,1cfbff04-339a-4f23-bff7-0aac47a17abb,Notebook,3557.74,4,Charles Murray,RS,Boleto
+2025-01-19,b8034e11-fe0a-4557-a7b5-0b614dfcfa50,Smartphone,653.01,5,Bryan Morales,BA,Cartão de Débito
+2025-04-14,78fceab7-f6a1-4f41-97c6-0ed3045a58ef,Smartphone,2763.93,2,Jeanette Arnold,SP,Pix
+2025-04-05,bb7e280b-5e55-4b46-b7a9-aef4d40c8594,Smartwatch,1320.56,4,David Jones,RJ,Boleto
+2025-04-01,1ac842d5-d910-41be-a71e-f1fae8c62242,Smartphone,2409.14,3,Amy Russo,SP,Cartão de Crédito
+2025-02-02,1f05e5d8-2c41-436b-8016-d8dad394492a,Notebook,2542.81,5,Eddie May,RJ,Cartão de Débito
+2024-11-10,9eb97338-94a9-4041-8b72-5e33736e2998,Fone de Ouvido,963.22,3,Lisa West,MG,Pix
+2025-02-21,87adc104-fbf8-4e03-afbd-5e4d49dd88c4,Fone de Ouvido,3260.79,5,Kayla Wiggins,RS,Cartão de Débito
+2024-11-07,6531ad5b-cff4-44ff-9b82-fdbcb07af1f6,Smartphone,3221.0,3,Kara Gordon,MG,Pix
+2024-10-22,11525fcf-f922-46b7-a3af-5136cacb98c7,Smartwatch,2436.92,3,Brianna Vincent,BA,Boleto
+2025-03-23,319b7c0c-19e3-4628-9922-170473705985,Smartwatch,2751.18,4,Kevin Thomas,PE,Pix
+2025-02-19,b4507030-58ae-4984-b690-f4fe703ab9c7,Smartwatch,2188.28,3,Samantha Hernandez,RJ,Cartão de Crédito
+2025-04-12,66659d4e-bf6e-434b-9eb4-58922966f242,Tablet,4609.37,3,Diane Gordon,SP,Boleto
+2025-03-16,12a73dac-ac1a-415d-9453-766462e23c09,Smartwatch,196.57,4,Allison Kelly,PR,Pix
+2025-02-07,acabde7f-1a07-4203-9131-4c33c7ef40d9,Fone de Ouvido,908.22,2,Olivia Gomez,MG,Pix
+2025-03-03,e4a2c94c-4829-46a4-af38-ffef072ac36e,Smartwatch,1715.23,5,Lori Hill,PE,Cartão de Débito
+2025-01-26,eeb589cb-4820-47fa-b850-72502bc3301f,Notebook,1654.91,3,Kayla Nichols,BA,Boleto
+2024-12-16,f524a539-5bb9-44f9-ba1b-5e34f4fc8e18,Smartwatch,2837.76,4,Donna Green,MG,Cartão de Débito
+2025-03-28,9061fa17-f1e3-49f3-8431-f041c3a06350,Fone de Ouvido,4998.67,5,Stephanie Morgan,PE,Boleto
+2025-03-11,70a3fda5-5ec3-495b-ab2d-b094fe07f3cd,Notebook,1919.38,5,Bradley Allen,PE,Cartão de Crédito
+2024-11-19,29aeecd6-0278-4cec-b5f9-b546c73a0033,Tablet,4541.85,4,Ms. Brooke Blake,RS,Boleto
+2025-04-17,3b1003a9-f0ce-47b2-b8cd-c1573d64ec3a,Notebook,1885.07,4,Angel Frye,RJ,Cartão de Débito
+2025-02-10,7931abc3-b8dc-4069-b253-9ffca338a3ac,Notebook,3496.95,2,Dustin Baldwin,PR,Pix
+2024-12-18,e527df34-6734-4001-a447-2cb4fddd2afb,Smartwatch,503.91,1,Shaun Bennett,RJ,Boleto
+2025-01-13,0bf37d27-6357-4a40-95f1-1efc2ceac9eb,Smartwatch,4106.3,5,John Baker,MG,Pix
+2024-12-13,01b99f1b-ffc0-4406-9d82-2bf5d8258637,Tablet,4132.97,4,Kristen Ortiz,RS,Cartão de Crédito
+2025-03-10,b2c55bb4-6c50-4270-b2f5-14f4a821dbc1,Tablet,2468.53,4,Andrea Douglas,BA,Cartão de Crédito
+2025-01-10,6cc20ee7-9fba-4a1d-a046-9486724c0bab,Tablet,1994.3,4,Brian Evans,RS,Cartão de Crédito
+2024-11-08,55eb1470-1824-435b-89f0-a7f44edd9a43,Notebook,1262.95,4,Charlene Evans,PE,Cartão de Crédito
+2024-10-25,d83a110f-cb64-4d82-a799-c6e2a5f3846c,Smartwatch,4822.78,3,Katrina Pham,MG,Cartão de Crédito
+2025-02-05,f927ea98-93e8-4bfd-bcdc-21eba952c3a7,Smartwatch,2298.56,4,Timothy Dean,SP,Cartão de Crédito
+2025-03-06,5f24867d-8ed2-40f3-b1c9-86e2c9cd1b21,Smartphone,4881.48,4,Karina Boone,RS,Cartão de Débito
+2025-03-14,f4ff7a06-514f-4298-998c-9a5822dd035c,Notebook,4350.61,1,Ashley Irwin,PE,Pix
+2025-04-03,6d1cdc1a-dced-4f0b-8ba8-b2bfbc856223,Notebook,4985.21,4,Kristina Thomas,RJ,Cartão de Crédito
+2025-01-14,02f441ec-319f-4ae6-9389-79a9109fe9b8,Smartwatch,2329.89,3,Cheryl Harrington,PE,Cartão de Crédito
+2024-12-21,ddad2bef-5963-45c8-ae89-76cbfc730f2f,Smartwatch,2491.06,3,Victor Lopez,BA,Boleto
+2024-11-15,4008544f-027e-4532-8e1c-f78f1d99d92c,Smartwatch,2394.86,3,Kristi Smith,RJ,Cartão de Débito
+2024-10-27,517f4ef4-b41b-4934-96e7-b324f54517e7,Notebook,4426.4,4,Edward Powell,PR,Cartão de Débito
+2024-11-23,d51b7bbc-fb22-4f64-bbb1-d268fa89e229,Notebook,4627.04,2,James Jacobson,BA,Cartão de Crédito
+2024-12-04,0ac3c6e0-74ab-4d0f-b137-4b1d6c15b261,Smartphone,651.47,1,Mrs. Laura Morris,RS,Cartão de Crédito
+2024-11-30,1539f694-8d2e-4a7e-9a78-84ff201858a8,Smartphone,2662.65,2,Lisa Lee,MG,Cartão de Débito
+2025-03-06,d7fb71b1-e78d-48d5-be5c-879c542af347,Notebook,2853.39,4,Bruce Lee,MG,Cartão de Crédito
+2025-04-18,a08074a6-b967-4ba6-944f-278f277f0622,Fone de Ouvido,2703.82,3,Marc Miller,SP,Cartão de Crédito
+2024-12-05,4976e118-d64c-48a6-8207-4097547da52b,Smartwatch,2725.6,4,Michael Miller,PR,Boleto
+2025-04-09,e2d13696-2d6b-4aac-9404-ece8ed6bcbbd,Fone de Ouvido,422.15,1,Melinda Rios,MG,Boleto
+2025-02-01,854c9fbe-2515-492c-8788-7ed705b0794c,Smartphone,2011.34,2,Debra Hill,PR,Cartão de Débito
+2024-12-22,05309087-d9d9-41ca-8dca-820002bf595a,Smartwatch,4819.1,5,Jennifer Cox,SP,Pix
+2024-11-11,9b9c3052-0518-4a75-9d9a-a896d0683842,Smartwatch,4106.4,1,Tammy Duarte,PE,Pix
+2025-03-09,f22cb2ff-887e-473a-89ae-6b9c76e41969,Tablet,2572.21,3,Sherry Baker,MG,Pix
+2025-03-15,1604c1b3-b3db-4820-ae14-606c8bd68f41,Smartwatch,3053.79,5,Misty Smith,PE,Pix
+2025-02-23,8b86f15e-5b7a-4a56-933e-b630664702ce,Fone de Ouvido,1199.25,2,Leslie Cole,PR,Boleto
+2025-02-06,a0e5ec43-0b49-4f88-9e03-1947435a8b6a,Fone de Ouvido,798.14,2,James Patton,RJ,Boleto
+2025-04-13,16884124-db6f-494f-a570-53fac0b8d878,Smartwatch,3709.08,1,Sydney Gonzalez,RS,Boleto
+2024-12-14,693800d0-752b-4160-9bc4-9dbcd2aeb6b5,Notebook,291.63,5,Jose Smith,MG,Cartão de Débito
+2025-01-17,c727ddad-4f46-450d-b1d4-db37c3d1aef2,Notebook,3081.12,2,Mark Jordan,PE,Pix
+2024-12-15,859186ee-8f98-4cfb-b63d-eccab7082e82,Fone de Ouvido,4704.98,5,Clarence Martin,PE,Pix
+2025-03-15,64cf6f38-8190-4ea5-a8e9-c7e6c240f256,Smartwatch,1029.07,5,Peter Smith,PR,Cartão de Débito
+2024-12-13,b10824d1-7482-49e5-be1c-ac465b2a33fb,Smartphone,4475.21,2,Alan Rowland,RJ,Pix
+2025-02-08,1d91d187-1b4a-412f-b189-cc60077fc5a8,Notebook,1650.94,2,Todd Bruce,PR,Pix
+2025-02-28,50eb73a1-b8ab-4abe-a2cd-04e5f2e7a4e6,Tablet,3164.97,2,Dustin Benitez,SP,Cartão de Débito
+2024-10-22,eae25e74-df5a-4d10-b84d-ef50a32ab3c8,Notebook,2906.04,4,Sharon Perkins,PR,Boleto
+2024-12-27,8c7ce3b3-3843-4281-8a1d-68330002ddd9,Tablet,1130.47,1,Nicholas Stone,RJ,Boleto
+2025-04-14,a8e6bbfb-22f1-4e00-98e2-a9315036348b,Smartwatch,2731.09,5,Bruce Wells,RS,Cartão de Débito
+2024-11-02,56088d29-cc69-44f4-876e-572faf5d1368,Smartphone,2212.74,5,Joseph Barber,RS,Boleto
+2024-10-19,8cbffeed-115e-4b52-884d-d2ca6b688e6d,Smartwatch,2192.11,1,James Harrington,PE,Cartão de Débito
+2024-10-29,48967e8a-d336-44d7-8762-3a67f832b8cc,Smartphone,2326.47,2,Brian Pierce,PR,Boleto
+2025-01-14,18d2ef0b-4ea4-443f-a662-0ff8ebdfe41d,Notebook,4838.65,5,Julian Mullen,PR,Pix
+2025-01-31,8aae11a4-95ce-4463-bbc1-d9f269e2fa3d,Smartphone,4878.03,1,Autumn Allen,PE,Pix
+2024-11-23,ee4308a4-8505-41a9-b149-dd2ddd0cfad4,Smartphone,2848.41,4,Blake Brown,BA,Pix
+2024-12-05,65cdca0d-74d0-4f86-8573-2520378cb57e,Smartwatch,1834.16,2,Nicole Ball,MG,Boleto
+2025-03-01,b6284c41-eabc-45cb-8320-b4feb4e757ab,Smartwatch,4896.56,3,Monique Campbell,PE,Pix
+2025-01-10,341a8b37-1ecd-4571-85fb-6d6d877690c2,Tablet,4333.45,1,Jose Dougherty,RS,Cartão de Crédito
+2024-10-25,fc92ba9d-682a-4d91-8974-c6f882f3b149,Smartwatch,4415.94,2,Kelly Lee,RS,Boleto
+2025-03-13,187ce626-6f03-4c33-a474-31d14b1b76d9,Notebook,3768.28,3,Samantha Douglas,RS,Boleto
+2025-02-16,1d55f1f0-efb1-47c5-a64a-35581a1e57b2,Notebook,2959.16,1,Brittany Wright,RS,Cartão de Crédito
+2024-12-08,5e92e22d-3551-4404-986d-71184f85aa43,Notebook,3750.99,5,Timothy Garcia,SP,Cartão de Crédito
+2024-12-15,fa76a643-0453-48f8-843a-cee99b0440d6,Smartwatch,1624.31,4,Teresa Williams,PE,Cartão de Débito
+2025-02-20,c9eba2b8-7c8d-4c90-86ff-9702ea5eb233,Tablet,187.66,5,Tanya Giles,RJ,Pix
+2024-11-02,3a95e221-a165-46f1-b1f6-4c58f88d467b,Smartphone,2926.21,1,Amanda Jackson,BA,Cartão de Débito
+2025-02-21,0c8e745c-21c3-4266-9700-b5c125d65cc0,Notebook,503.8,5,Lauren Pruitt,PR,Cartão de Débito
+2025-03-10,876dcb0b-7f4d-4d77-9945-d9e287ce9c6f,Notebook,3437.39,4,Robert Wade,PR,Boleto
+2025-03-22,afe88c2d-4522-496d-97b0-7285ad6e9291,Smartphone,4289.98,1,Jeffrey Gamble,RS,Cartão de Crédito
+2024-11-03,e6b8d738-1e70-40c4-a842-bcd88439f20f,Smartphone,2800.85,4,Sara Lynch,PR,Cartão de Crédito
+2025-03-04,1eb05a79-6e26-4b70-a2f4-a3300668b3db,Tablet,1389.15,1,Jordan Eaton,RJ,Cartão de Débito
+2025-02-03,46b18052-2117-45ca-8707-39fa4e8eed1d,Smartphone,579.85,5,Katherine Mckinney,SP,Pix
+2024-11-08,5a9b0956-4a09-4116-a1f9-237853e2c388,Smartphone,3385.58,5,Thomas Taylor IV,SP,Boleto
+2025-03-05,b1f2d94c-1fa9-4103-9cbc-a074da5a162d,Tablet,1471.98,3,Robin Robinson,MG,Cartão de Débito
+2024-12-04,10094476-621f-4910-addf-6a1fcd882bb9,Fone de Ouvido,3536.97,5,Scott Richards,SP,Cartão de Crédito
+2024-11-05,148ede2d-1f3b-4077-a9d1-e2d59e448a17,Fone de Ouvido,3939.17,2,Samantha Hall,PR,Boleto
+2024-11-03,32869d31-eab5-452a-ac49-11d9415a96d4,Tablet,1401.79,2,Christopher Brown,RJ,Boleto
+2025-03-21,b7e90aa0-95d4-4305-9755-7f5a380ddb58,Smartwatch,2578.39,4,Benjamin Bush,PE,Boleto
+2024-12-11,44c90fa0-bcd9-471d-84c8-a654836ec855,Notebook,3882.33,2,Anthony Barnes,MG,Boleto
+2024-12-05,0b1e3096-b795-4f0b-83fe-75a0e5d1b96f,Notebook,959.71,5,Christopher Rodriguez,PE,Cartão de Débito
+2025-01-18,70af43cf-ee41-48ca-900d-1f946941b601,Tablet,3793.86,4,Edward Cooper,SP,Cartão de Débito
+2025-02-24,176a5a40-8b1d-4bfb-a79e-3ef946988ef2,Smartphone,4854.57,3,Jennifer Scott,PR,Boleto
+2025-03-09,30318e90-6f40-4a1b-9173-de4ca21744ee,Fone de Ouvido,4471.02,1,Tyler Cameron,MG,Cartão de Crédito
+2024-12-31,8130ce0b-9ff9-4168-baf5-d59421daf28d,Notebook,3254.8,3,Steve Wilson,RJ,Cartão de Crédito
+2025-03-16,b7942002-8bd3-43a2-b112-22d4f500e7fa,Notebook,504.26,4,Spencer White,PR,Boleto
+2025-03-22,6ee54d4d-7dd2-4941-851a-46452dca17e3,Fone de Ouvido,585.16,5,Ashley Norris,RJ,Pix
+2025-04-13,3de8a829-80e5-4bb2-a0d2-8c3d9cb787d4,Tablet,209.16,3,Jesse Porter,RJ,Cartão de Débito
+2025-01-31,cee6bd2a-c026-48fe-99e8-9ed04ac18d73,Fone de Ouvido,4825.48,1,Angel Hayes,MG,Boleto
+2024-11-06,fb2e6c34-92c4-4084-b21b-d018e4210313,Smartphone,336.88,5,Lauren Lopez,BA,Cartão de Crédito
+2025-02-08,e5d7ea5c-095c-416f-98cd-499ff8189fb5,Tablet,247.17,1,Anthony Hamilton,PE,Pix
+2025-03-26,88c2b512-4151-48e3-b643-221e6ad70a7a,Notebook,2676.88,4,Andre Kelley,BA,Cartão de Crédito
+2024-10-19,122fc3cd-e126-4c06-8906-4a89a1722eda,Smartwatch,4832.95,1,Julie Lyons,MG,Cartão de Débito
+2025-03-12,30edd51d-d537-41d7-bb61-393601ab9b67,Notebook,4942.49,4,Devon Pena,BA,Pix
+2024-11-20,637dc8cd-aff2-4db3-8078-b303357a7cc3,Fone de Ouvido,3610.09,4,Heather Long,RJ,Cartão de Débito
+2025-01-23,714d2540-6229-47b9-aed5-4b53a6f2cde5,Smartwatch,2669.31,2,Melanie Bell,BA,Pix
+2024-12-28,aed11f4d-d774-4d3b-af72-8eab45a4162e,Smartphone,1524.28,4,Shannon Tate,PE,Cartão de Débito
+2024-11-25,c69f96a3-46e7-46a7-b425-a2c0f7f7405d,Smartphone,4424.82,2,Daniel Perkins,PR,Cartão de Crédito
+2025-01-06,14d1d1d2-6fa7-47b5-b90c-d80341b491b7,Tablet,3613.97,1,Jessica Wagner,RS,Cartão de Débito
+2024-12-02,0c4af3ea-f2cc-401a-92ed-b95da10c06d7,Notebook,851.1,2,Christopher Campbell,PR,Cartão de Débito
+2025-01-09,34db2270-f63a-4e10-9cc6-4c0ee68e9af9,Tablet,939.9,4,Connor Owen,PE,Pix
+2024-11-12,2bc5ba01-cd50-4c4d-ac8c-2b135b56af3f,Smartphone,2001.56,2,Tara Edwards,SP,Cartão de Débito
+2025-02-28,5d26b20e-877a-4938-9892-6d4820d0d42f,Fone de Ouvido,2280.28,5,Dr. Raymond Noble,RS,Pix
+2025-03-04,f425ac5a-81ce-4ff8-bcc4-9dbcfeddc3a4,Smartwatch,2250.42,1,Erica Kelly,SP,Cartão de Débito
+2025-02-28,18461c88-1506-4834-b933-09b1873fc21d,Smartwatch,2447.64,1,Ryan Beltran,PE,Cartão de Débito
+2025-02-23,54b4c30a-1449-4db4-a871-37074aee9105,Notebook,3973.71,5,Katherine Andrews,RJ,Cartão de Débito
+2024-11-15,95667f56-676c-428a-b60c-ce61cac25859,Notebook,4551.34,1,Troy Rodriguez,MG,Pix
+2025-02-03,b9f8a61d-22e1-4a31-997f-832c5d549b46,Tablet,2099.31,5,Richard Hernandez,SP,Pix
+2025-04-09,e7a23800-0d0a-4714-a3e0-6e9acd267f6d,Smartwatch,4207.66,1,Joshua Harmon,RJ,Cartão de Crédito
+2024-10-26,d4947874-dd03-49f9-910d-c5e29327ed61,Smartwatch,4014.0,2,Stephen Jenkins,BA,Pix
+2025-01-07,95573cc7-2536-4fc3-9f84-571fc5483634,Smartwatch,1928.66,5,Jessica Davis,SP,Pix
+2025-04-13,c4cb7d1f-ae1d-435f-9f93-07bcd4e08d27,Tablet,3822.6,3,Michael Hester,SP,Pix
+2025-02-24,9535ac0c-dd82-4b03-8eef-de8c99bbe761,Fone de Ouvido,1399.24,4,Erica Powell,RS,Cartão de Débito
+2025-04-15,37bee597-eaf1-448d-8777-366e66469b43,Notebook,1063.78,3,Jonathan Fisher,RJ,Boleto
+2024-11-13,ffd7312d-62be-4b28-836f-32407a3c8018,Fone de Ouvido,4725.88,1,Zachary Mccoy,RJ,Boleto
+2024-12-03,0f97992a-d508-4aee-8797-58929b0f08c8,Tablet,4192.53,4,Timothy Morrison,SP,Pix
+2024-10-22,f03d6c36-bfb9-41ba-8b64-7465541a88f7,Smartwatch,496.88,5,Dale Waters,MG,Cartão de Débito
+2024-12-18,f5e51c85-bb88-4191-bf76-7f599ee394a8,Fone de Ouvido,4027.27,1,Charles Carter,PR,Pix
+2025-03-13,5b269546-8f14-4200-a898-8ca7d6004ce5,Tablet,4277.29,3,Alexander Jones DVM,RJ,Cartão de Débito
+2025-03-18,ac7e97d3-d5ab-48c0-b044-2e2c6f8a8938,Smartwatch,3805.97,4,Robert Schmitt,RJ,Boleto
+2025-04-05,2870748e-7755-47f1-a1aa-d2e2433334d1,Smartphone,4942.97,5,Joe Reed,RS,Pix
+2024-12-27,864c286c-e6da-476f-97a6-4aea5738e5e4,Notebook,4681.7,2,Haley Lucas,RJ,Boleto
+2025-01-11,4f45afdb-6b18-48fe-b621-cec2fea31946,Smartphone,1127.43,4,Matthew Robinson,SP,Cartão de Crédito
+2025-01-03,3496e864-3c1e-4ade-9e50-3b92fa618159,Tablet,3934.89,3,April Gillespie,BA,Cartão de Crédito
+2024-11-02,2e02dfff-d354-47af-baa4-58bb11151a0f,Smartwatch,1148.29,3,Brian Allen,PR,Pix
+2024-12-17,9bdc2d48-2df1-4543-8b71-f8673611063e,Notebook,3448.29,5,Deborah Foster,RJ,Boleto
+2024-11-16,cc90d621-6637-46a9-aceb-214209f00733,Notebook,1243.65,2,Richard Colon,RJ,Cartão de Débito
+2025-02-26,8e93b61e-c787-41e2-aa72-7a740f9d5deb,Smartphone,1576.18,2,Randall Heath,SP,Pix
+2025-01-24,43ea2dd3-49a0-4c25-813c-7b2a01b4fc98,Smartwatch,1035.06,4,Joseph Chavez,PE,Cartão de Crédito
+2025-04-17,c6f6f561-dafb-43f4-9af3-4ec18b67ff4e,Tablet,4264.23,5,Nicholas George,RJ,Boleto
+2025-04-01,492c57af-e738-4f73-acad-30f326887900,Notebook,3059.92,1,John Brown,RJ,Boleto
+2025-03-27,73453274-2fa1-47ef-a8f5-52105a8bb902,Smartphone,276.55,5,Kayla Pitts,MG,Boleto
+2025-04-07,d3358655-194e-49a4-8808-85b4e4a7e9ac,Notebook,2394.02,4,Lisa Wiggins,RJ,Pix
+2024-12-07,047bcfd9-6fe8-4d90-9958-256932ac72a8,Fone de Ouvido,2885.96,5,Tyler Deleon,PE,Cartão de Débito
+2024-11-21,de2f5c5b-05df-40ad-a7b3-6c9e986dabf4,Fone de Ouvido,4283.15,2,Edward James,MG,Cartão de Débito
+2025-01-25,0acb7246-26df-4b99-a8d4-bd41ce05486b,Notebook,902.84,3,Kristen Anderson,PE,Cartão de Crédito
+2025-02-24,75468d7a-71df-4aea-86ab-4b9e565c97a7,Fone de Ouvido,2113.93,4,Beverly Johnson,PE,Pix
+2025-03-29,194e9301-8248-46ee-a3ff-51de04090018,Notebook,4083.24,3,Kimberly Bell,PE,Boleto
+2024-11-21,7c75345d-2141-4339-9df6-181feb3b6382,Smartphone,4781.37,2,Jose Mcgrath,SP,Pix
+2024-11-27,b4e012c3-1ed3-4d72-b13a-5500c33909e0,Fone de Ouvido,3501.79,4,Ashley Berry,PR,Cartão de Débito
+2024-12-26,43c97bc0-c277-44e6-a608-032d16bedb12,Notebook,3409.23,3,Misty Miller,MG,Pix
+2025-04-18,7d78fecf-c70f-4613-99e2-3e6019bf796b,Smartphone,1608.34,4,Kayla Thompson,RJ,Cartão de Crédito
+2025-02-08,8baf8ad3-4e14-4192-9142-04048fce231e,Fone de Ouvido,1841.59,1,Darren Gonzalez,BA,Cartão de Crédito
+2024-12-25,2c5826d3-af2f-42dc-b435-efc3d6d73356,Notebook,3338.84,1,Joseph Johnson,PE,Cartão de Débito
+2025-03-04,7a258523-8825-459b-9f8a-ce142e0ffdf9,Fone de Ouvido,3381.54,3,Randy Guerrero,BA,Boleto
+2025-01-13,c379e701-09cd-4671-9f03-d16b372f5692,Tablet,4488.86,2,Stacy Hoffman,MG,Pix
+2025-02-02,7d9d473f-01dc-464b-95e0-4b31ed1ff3ad,Fone de Ouvido,486.45,1,Elizabeth Jones,PE,Pix
+2025-01-26,2ddf20a7-8307-4622-af79-cd732b90c910,Fone de Ouvido,1417.67,3,Matthew Clark,BA,Cartão de Débito
+2025-02-16,02bce93f-5717-4d09-8806-a7b52b582295,Notebook,2470.01,3,Charles Beltran MD,MG,Cartão de Crédito
+2024-10-31,7fd66a49-8f4d-4210-be7c-595a62fbcb2a,Smartwatch,3868.32,1,Michael Wilcox,PE,Cartão de Crédito
+2024-12-11,6f9bf350-1229-42dd-b456-d0349fc2493e,Smartphone,1050.4,5,Nicholas Johnston,MG,Boleto
+2025-04-12,10d0c371-1ae4-49a3-ab6d-1460c19821c8,Smartwatch,2905.11,4,Matthew Smith,RJ,Pix
+2025-02-27,9ac31adf-8ca7-4598-bd33-20a48a2d62eb,Notebook,456.8,2,Tyler Calhoun,SP,Pix
+2025-01-01,5733866f-b0e5-4fc9-8fcd-6973e4545c0a,Tablet,2823.29,1,Matthew Ramirez,RJ,Cartão de Crédito
+2025-02-07,d66d0786-02c2-4354-ad8c-de1a4d6047c8,Smartwatch,4876.36,3,Sandra Davis MD,PE,Cartão de Débito
+2025-03-18,e76b483f-dacd-42c3-87e2-4190d551f7a4,Fone de Ouvido,2243.35,4,Joshua Adkins,SP,Pix
+2025-02-16,1ecc08c0-3f0f-4553-b18e-470a5e18671a,Notebook,2029.25,1,Mike Parker,MG,Cartão de Débito
+2025-01-01,481842fa-ee95-4d57-a476-03bf0bf5fe7e,Smartwatch,1175.3,4,Beth Wagner,RS,Cartão de Crédito
+2025-01-03,ff67f7a5-b454-4181-8e61-7470b4ad2dae,Smartwatch,3956.21,1,Michael Bell,RJ,Cartão de Débito
+2025-02-11,3a97e7e6-5564-4fc7-a9d2-2c638f24a064,Notebook,3904.4,5,Joe Cummings,PE,Cartão de Débito
+2024-11-07,0b48e4ca-63c0-44f5-bbec-266798cc1785,Tablet,1742.69,5,Shannon Ruiz,PE,Pix
+2024-11-13,1afae3f2-fd54-45ea-a100-61532f1ad395,Tablet,4439.41,5,Dr. Ryan Thompson,RS,Pix
+2024-11-17,1c131d9f-60b5-494f-a3ad-d18cb61fde17,Smartphone,155.94,1,Joshua Coffey,RJ,Boleto
+2024-10-27,4754879f-46af-472c-8cd6-26b9d28227d4,Smartphone,2342.84,2,Cameron Doyle,MG,Cartão de Débito
+2025-03-10,a1801b3a-91ab-4396-afd6-ea6282a6d7fa,Notebook,4723.95,2,Arthur Howell,RJ,Pix
+2024-11-09,63bd6a51-295a-479c-9bca-707c65f52cab,Tablet,3943.13,1,Mark Owen,PE,Cartão de Crédito
+2024-12-08,bd2cff3d-6282-4850-a15c-e66f2ee4eef7,Fone de Ouvido,4292.37,3,Kim White,RS,Boleto
+2025-03-07,587e7959-7168-43a9-8c9d-53ae02f9a10e,Fone de Ouvido,1164.57,3,Jose Miller,PR,Cartão de Crédito
+2025-01-25,416ac558-3baa-49bf-8032-7ad74ea0f6f5,Tablet,4371.13,1,Stephen Romero,MG,Cartão de Débito
+2025-02-02,db1852a8-c8af-42cd-8b47-e04fd453f2d1,Fone de Ouvido,503.49,2,Carrie Graham,PE,Boleto
+2024-11-07,a79ed074-1039-4063-afbd-bfbe4960f6b6,Smartphone,4203.42,4,Andrea Lopez,SP,Cartão de Crédito
+2024-11-12,db23e304-bf7e-42c1-9a58-3b21781280e4,Fone de Ouvido,675.27,4,Madison Schaefer,PE,Boleto
+2024-11-26,8958ef87-023e-42cf-a66f-ad0a8c260b73,Tablet,2056.24,4,Michelle Garrison,SP,Boleto
+2025-01-11,4d3eb697-a3f8-4635-b7ca-d73e0b4722fb,Notebook,343.75,2,Daniel Hodges,PE,Pix
+2024-12-23,971bc98c-70c1-49ad-ae6b-467017ab4914,Notebook,2590.87,2,Christina Gonzalez,RJ,Pix
+2024-11-29,2a4f0773-e1b6-4b33-bd32-8869a8f8d60f,Tablet,3284.82,4,Natasha Erickson,MG,Pix
+2025-01-25,57d88705-196f-4ee2-8307-f4a1789e7af3,Smartphone,3080.35,4,Debbie Ward,PR,Boleto
+2025-01-30,727aba2f-7c44-4c95-adef-10908b2a2160,Smartwatch,4715.11,4,Lisa Burns,PR,Cartão de Crédito
+2025-01-12,f2db0fa0-6719-4c6e-8b95-972cddbb65a5,Smartwatch,3018.58,2,Crystal Hughes,RS,Boleto
+2024-12-31,1bdcd329-0b0d-4de0-b916-9734538605fe,Notebook,3382.77,5,Carla Obrien,SP,Pix
+2024-12-13,0fe3d785-dcae-416d-a688-ac9b54bf7967,Notebook,884.36,1,Daniel Martinez,RS,Cartão de Crédito
+2025-01-12,3b5c15bb-b1ee-4450-8429-877ffa49ff76,Notebook,802.79,1,Robert Knox,BA,Cartão de Débito
+2025-01-09,56b6f349-b982-4216-8a00-3c99a6c2c312,Fone de Ouvido,4192.67,1,Matthew Trujillo,RJ,Boleto
+2025-02-03,e1fec6f2-87ed-428f-9a30-cc8b1c96e13c,Tablet,2077.65,5,Angie Smith,RS,Cartão de Débito
+2025-02-24,7eb2d06f-7833-4091-ad56-6b90a34db3c4,Tablet,4971.35,1,Catherine Anderson,RJ,Cartão de Débito
+2025-03-24,20528e65-1973-49c2-8528-c91f91a6b03a,Tablet,4408.15,2,Kelly Evans,BA,Cartão de Débito
+2024-12-02,00e6c9c0-95b5-4450-b758-bc8d929b0e0b,Fone de Ouvido,3614.67,1,Cory Thompson,PR,Cartão de Crédito
+2024-11-09,6d3aef9e-b4e7-41b0-9d8c-c99b75b4900f,Fone de Ouvido,2500.47,5,William Short,MG,Boleto
+2025-02-17,c355bcb5-56bc-4cde-984f-09b004f9f417,Tablet,2349.4,4,Brian Clark,PE,Pix
+2024-10-26,02422951-de29-4b0b-821b-a75a13a7a45c,Smartphone,3056.56,1,Jimmy Cunningham,PR,Pix
+2024-10-26,cda1ebc6-3704-40b0-adc5-06c0804298d4,Smartphone,1624.43,1,Derrick Kim,MG,Pix
+2025-04-09,d82e4332-204e-4209-ad8a-1feecbe42b81,Smartwatch,1999.78,5,Robert Hernandez,RS,Boleto
+2024-12-10,b7009f2c-96e7-4da7-ae70-6a94a221bc92,Smartphone,1984.14,2,Melissa Jensen,RJ,Cartão de Crédito
+2024-12-17,d8073388-a77f-4563-bd41-a6d004185552,Smartwatch,2119.96,2,Dr. Brianna Cummings,PR,Cartão de Crédito
+2025-03-16,3fd7ac22-b298-4e1e-8eec-03f6d59a9a25,Fone de Ouvido,4086.12,4,Joseph Martin,PR,Boleto
+2025-01-27,36a71755-ca80-4e54-bafb-77292fd1f039,Fone de Ouvido,2401.58,4,Mr. Philip Thompson,RS,Pix
+2024-11-18,194c5be3-2192-448e-bed9-58c753dc0b65,Fone de Ouvido,4726.02,5,Christina Brooks,PR,Boleto
+2025-03-30,bcaef7d1-1374-4aaf-87e0-1e9d8a1ceb16,Smartphone,2667.64,4,Gregory Clayton,PR,Pix
+2025-03-25,ebc66a37-efa6-4614-a3ce-5ad782a06f93,Smartphone,1663.42,2,Lindsey Christensen,PE,Boleto
+2025-03-15,e78158a1-d093-4594-8a59-d1c35ba29d69,Tablet,1525.52,4,James Daniels,PR,Cartão de Débito
+2024-10-27,04748da8-4c58-4f4b-912a-8a3c5959a7d9,Smartphone,843.06,5,Joseph Wood,BA,Boleto
+2024-12-16,186aff57-bf6f-4e4a-a4fb-7478ede5f9c7,Smartwatch,3172.89,3,Laurie Stewart,PR,Boleto
+2025-04-01,f866363f-c775-40b8-9f81-a7954856b689,Smartwatch,3045.39,4,Andrea Lewis,PE,Pix
+2025-02-12,34e62b36-dad3-4814-be8e-836affd33813,Notebook,4375.95,4,Walter Wright,RS,Pix
+2025-02-08,9ef8d103-8545-44c4-b15f-099b525e2466,Smartwatch,4363.17,3,Richard Lopez,PE,Cartão de Débito
+2024-11-13,849d02a6-cfc0-49b7-8c26-b6d3d5a2fae7,Smartwatch,2574.7,3,Allison Roberts,SP,Boleto
+2024-12-14,b946ae86-4096-4eb2-8577-db8ebc0c41fe,Smartwatch,3933.08,3,Jennifer Wilson,PR,Boleto
+2025-02-18,4371084d-1a33-4564-a880-ab2649b26f28,Notebook,458.25,2,Scott Hayes,PE,Cartão de Crédito
+2024-11-12,ee4ac9b4-ab7a-452f-bc95-b514ca99c65c,Smartwatch,3962.86,1,Joel Harrison,BA,Cartão de Débito
+2025-03-17,af8d6120-ab98-4a3c-b1d5-018625ef00fe,Tablet,2658.23,1,Shirley Prince,RJ,Cartão de Débito
+2024-12-30,66ad00c2-d3d4-47b2-89d5-f8d0f1af700f,Smartwatch,1366.74,1,Christina Daniels,PE,Boleto
+2025-01-10,b9057cf9-8b96-463d-b933-39db3bf8d5f1,Smartwatch,1177.06,3,Patrick Goodman,MG,Boleto
+2025-01-21,094a6d5c-b484-4b35-8a9f-ee7216e976c7,Smartwatch,1467.71,1,Kevin Macias,PE,Cartão de Crédito
+2025-03-14,5886c2cf-8d31-4aa2-a3a9-332be95d1b98,Smartphone,1753.72,3,Thomas Hardy,BA,Cartão de Débito
+2025-01-07,8da9d714-8ca3-4721-b853-f5a6bfdfe3e7,Notebook,2042.69,4,Jason Harrington,PR,Pix
+2025-01-13,81a7c2d2-0ff2-4b89-8d2b-0a47a0737a7d,Notebook,3705.3,2,Joseph Fuentes,RS,Boleto
+2025-01-21,6a087f90-2c17-43f7-98e4-e5a8ed52e50c,Smartwatch,2917.26,2,Cindy Perry,RS,Cartão de Débito
+2024-12-12,a45eda50-32cd-45c2-b57a-efe3b78bfd4f,Fone de Ouvido,1235.37,4,Brandon Avila,RS,Cartão de Crédito
+2024-12-20,c1890015-241e-46ba-8ae7-2933acfcc2c4,Smartwatch,610.1,1,Stephen Mcdaniel,BA,Cartão de Crédito
+2024-11-07,4efd185f-2c1d-4d2f-a68b-54d6acead4dc,Tablet,1301.6,2,Ruth Melendez,MG,Cartão de Crédito
+2025-02-16,8cf4b064-e08e-4202-bbf1-0a41cb5cc4b3,Fone de Ouvido,690.44,2,Jonathan Hernandez,RS,Boleto
+2025-01-15,54d145a9-59fe-4929-aea0-7c9a974e4bc9,Notebook,3433.07,5,Joshua Lewis,RJ,Pix
+2025-01-30,dcd55e7d-3989-4ae7-8201-562b688fff58,Smartwatch,1811.35,5,Anna Taylor,BA,Cartão de Débito
+2025-01-07,725ecd8d-bd9a-4035-8f62-a22800a4964f,Smartwatch,2531.52,3,Jonathan Harvey,RJ,Cartão de Crédito
+2025-02-21,dfc48655-b8fd-475b-be36-dbc06d195e79,Fone de Ouvido,3604.78,4,Ian Sanders,PE,Boleto
+2025-01-20,bb4a61e4-292d-4d1f-a964-32778d22c4c5,Smartphone,2162.06,5,Elizabeth Owen,PE,Cartão de Débito
+2025-02-28,e2d1877b-3b91-40c4-b497-d8e983b9cc7a,Smartwatch,4785.54,2,Courtney Lawson,PR,Pix
+2024-11-21,796b52e2-062f-4135-bd05-430b8ae8110a,Notebook,1109.56,4,Chelsea Smith,MG,Cartão de Crédito
+2024-12-02,5ebb0550-9649-47f7-9037-b0074e73575c,Smartphone,3761.62,4,Donna Clark,MG,Boleto
+2025-04-04,40aadab0-5470-4739-9087-73665d1da051,Smartphone,4747.99,1,Amber Cline,PE,Cartão de Crédito
+2024-11-19,3525092a-ebf1-476c-848c-e16bfd69a3b6,Notebook,787.05,3,Shannon Walker,PE,Boleto
+2024-12-29,9952942d-b419-4fc2-82da-02689a194665,Notebook,2058.36,5,Randy Foster,PE,Boleto
+2025-04-09,d4df6fb9-d50f-4fba-80fa-f58645957063,Fone de Ouvido,4812.36,3,Samantha Warren,RJ,Cartão de Crédito
+2024-12-30,6181685c-cd62-4522-876d-f625b3a895a1,Fone de Ouvido,2845.57,5,Isaiah Joyce,MG,Cartão de Crédito
+2025-02-12,880810bc-b000-4a0e-8788-bd2d71e61a04,Tablet,1234.51,4,Scott Barrett,SP,Cartão de Crédito
+2024-11-04,f6ad39ce-948f-4271-b2dc-8dbc9cf59532,Tablet,2652.96,1,James Jackson,PE,Boleto
+2024-10-18,b0393b18-e05f-4508-a30d-4a8153dea226,Fone de Ouvido,4460.52,5,Anita Sanchez,RS,Boleto
+2024-11-08,52d78ae8-c241-4d7f-8bff-85141ad4789a,Tablet,2971.07,2,Crystal Escobar,PR,Cartão de Débito
+2025-02-17,96787cf8-731e-42c4-9420-7a55e11113e5,Fone de Ouvido,2494.91,3,Chloe Wilkins,PE,Cartão de Débito
+2025-02-11,324babfa-90ce-4b1b-bf3c-2c7e1f97cb90,Smartwatch,1448.02,4,Kevin Bentley,RJ,Pix
+2024-11-18,6bfeed94-123c-4286-98c8-4c7420302a1b,Smartphone,3938.27,5,Linda Jones,PR,Pix
+2025-01-01,32786c72-ae36-4956-b1e8-0a8b449b07e2,Smartphone,4132.77,4,Kevin Bond,MG,Pix
+2025-04-05,3bbfd588-6c0a-4fb6-b8ac-524194c02cf5,Smartwatch,3382.1,5,Gina Anderson,RS,Cartão de Crédito
+2025-03-17,8f4e7a56-7261-4c11-ae67-81c557126906,Smartphone,2973.36,5,Jacqueline Young,PR,Cartão de Débito
+2025-02-01,a69ea008-00f7-41ac-b548-9ff7dae4ff4c,Tablet,947.35,5,Douglas Salazar,RJ,Pix
+2024-12-23,11a565c3-d8b2-4d60-9bee-a0d2468ec8da,Smartwatch,3411.14,5,Sheila Barker,PE,Cartão de Débito
+2025-04-13,a8cdcdc2-dfd6-47a0-81ed-b2492d84d5f8,Tablet,3130.71,1,Nicole Mckay,PE,Pix
+2025-01-04,8978245e-e86c-4bbc-aaf3-9f2e827de81f,Tablet,3382.99,3,John Brown,SP,Pix
+2025-02-20,a31afc79-b78f-4c86-9908-7a2c535f7203,Notebook,2601.19,5,Nancy Day,SP,Cartão de Crédito
+2025-03-21,c1a67228-c029-4240-b757-40eaa7288347,Tablet,4099.4,3,Melissa Reyes,MG,Boleto
+2025-03-09,301ba345-30e6-4cd4-9668-268ef7188c9d,Tablet,3572.04,1,Tonya Tucker,RS,Boleto
+2024-12-17,41c19aa0-79b9-489e-a039-70948efe721f,Fone de Ouvido,3306.17,3,Sandra Duncan,MG,Boleto
+2025-03-26,b665718d-5cd2-4bd4-a5d4-165c31177714,Tablet,215.31,1,Barbara Stephens,PE,Cartão de Débito
+2025-03-18,090744f5-d7ed-483e-a959-f42d2e4880df,Smartphone,1813.62,5,Kelsey Taylor,RS,Boleto
+2024-12-09,91463b1c-0681-4220-bf77-03aa3ba0cb4c,Tablet,2165.37,3,Nicole Hensley,MG,Cartão de Débito
+2025-03-10,2f5761c4-d297-4772-a75d-57d98b43c55b,Tablet,745.6,5,Eric Hunt,PE,Cartão de Débito
+2024-11-01,7de350e7-a940-4f14-9431-ee59a95b3618,Smartphone,294.74,5,Michael Smith,RJ,Cartão de Débito
+2024-11-17,8f22676a-5af7-427c-9756-01a026656f4b,Notebook,4671.42,1,Tonya Martinez,RJ,Boleto
+2025-02-12,3b5d8ac7-b078-412f-8572-c29611b423f2,Fone de Ouvido,4845.79,2,William Sullivan,PR,Boleto
+2025-01-17,5f2f5599-8dc9-4dce-b74e-153778c96569,Smartphone,1569.17,2,Sara Garcia,RS,Cartão de Crédito
+2024-10-30,805ef4b6-a180-48b3-b2c1-e711a3bfd54f,Notebook,4657.88,4,Philip Carpenter,RS,Pix
+2025-03-05,aa4ca2cb-704f-48b7-a8a0-d77c8ac485a0,Smartphone,1340.06,3,Shelby Peterson,MG,Boleto
+2025-02-13,876703f8-7a47-4614-bb65-1c03a2b02a80,Smartphone,3005.81,2,Christina Evans,PR,Cartão de Crédito
+2025-03-31,1515acb6-1d5d-4b90-82ee-acb03d7d367b,Tablet,4575.41,2,Pamela Morse,RJ,Pix
+2024-12-21,0220ab81-c292-4b7b-ac04-0ea8b7542974,Tablet,4475.06,1,Jenny Stokes,PE,Cartão de Débito
+2025-04-13,846a0cd4-7872-480d-8449-717bb8c0301a,Tablet,4990.26,3,David Anderson,RS,Cartão de Crédito
+2025-02-04,aecea289-339d-41bc-958c-58168da5dde6,Notebook,1420.61,1,Daniel Holloway,RJ,Cartão de Débito
+2025-03-02,f78d3646-1926-4089-8aab-965d7e2a47b0,Smartwatch,3540.33,4,Mr. Christopher Henderson,RS,Cartão de Crédito
+2024-12-13,56280554-0d61-47e4-8e03-3df2e0db314d,Smartphone,879.53,5,Jennifer Thomas,MG,Cartão de Crédito
+2025-04-17,e942d1d1-55eb-4a80-8e75-c6240db0f203,Smartphone,3715.3,2,Caitlin Parrish,PR,Cartão de Crédito
+2025-03-03,c1c9c4d9-1456-4b43-a198-a1a9e726a146,Fone de Ouvido,4190.04,5,Corey Barajas,PE,Pix
+2025-03-22,2c36ae0a-f617-4016-bec9-c8444e9a5b4b,Tablet,4724.42,2,Andrea Young,MG,Boleto
+2025-02-27,288c6303-f9ea-45d2-b4d9-3b0cb574143a,Tablet,4962.92,5,Christopher Bolton,RJ,Cartão de Crédito
+2025-01-18,5e97e1bd-2b9f-4c1b-b028-185abe8222a2,Fone de Ouvido,1491.89,2,Jaime Bentley,BA,Pix
+2025-04-16,e1716499-38a7-445a-85da-3bf2f9b1ca9c,Smartwatch,1325.16,2,John Knight,RJ,Cartão de Débito
