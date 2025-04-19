@@ -1,4 +1,3 @@
-# Analise-Simples-de-Vendas-de-uma-Loja-Virtual
 # 🛍️ Análise Simples de Vendas de uma Loja Virtual
 
 Este projeto tem como objetivo realizar uma análise exploratória de dados de vendas de uma loja virtual fictícia que comercializa eletrônicos. Os dados foram gerados sinteticamente e manipulados com Python para extrair insights relevantes de negócio.
